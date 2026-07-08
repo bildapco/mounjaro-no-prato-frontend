@@ -1,0 +1,25 @@
+{
+  "name": "Mounjaro no Prato",
+  "short_name": "Mounjaro",
+  "description": "Seu protocolo definitivo para perder peso com saúde.",
+  "start_url": "/mini-app-mounjaro-no-prato.html",
+  "display": "standalone",
+  "background_color": "#0b3d0b",
+  "theme_color": "#1b6b1b",
+  "orientation": "portrait",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "Images/lancher-icon_192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "Images/lancher-icon_512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
