@@ -18,7 +18,7 @@ self.addEventListener('activate', e => {
 
 self.addEventListener('fetch', e => {
   if (e.request.method !== 'GET') return;
-  if (e.request.url.includes('railway.app')) return; // não cacheia API
+  if (e.request.url.includes('onrender.com')) return; // não cacheia API
   e.respondWith(
     caches.match(e.request).then(cached => cached || fetch(e.request))
   );
