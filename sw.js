@@ -1,4 +1,4 @@
-const CACHE = 'mnp-202607271729';
+const CACHE = 'mnp-202607311119';
 const ASSETS = [
   '/mini-app-mounjaro-no-prato.html',
   '/manifest.json'
